@@ -67,7 +67,7 @@ You can forget about copy mixins from project to project and focus on write your
 - [text-stroke](https://ismamz.github.io/postcss-utilities/docs#text-stroke)
 - [triangle](https://ismamz.github.io/postcss-utilities/docs#triangle)
 - [truncate](https://ismamz.github.io/postcss-utilities/docs#truncate)
-- [word-break](https://ismamz.github.io/postcss-utilities/docs#word-break)
+- [word-wrap](https://ismamz.github.io/postcss-utilities/docs#word-wrap)
 
 
 ## Examples
